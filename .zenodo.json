@@ -1,0 +1,40 @@
+{
+  "title": "Sensor timing for the Omega Game Sphere AR engine",
+  "creators": [
+    {
+      "name": "Weis, Aaron Michael",
+      "orcid": "0009-0002-1906-148X"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "report",
+  "version": "0.1.0",
+  "language": "eng",
+  "description": "A design brief for the Omega Game Sphere augmented reality engine in the OneiroNexus project. It explains why the engine needs a timing budget for sensor observations and proposes a comparison of timestamp accuracy, drift, delivery delay and event ordering against a conventional baseline. It identifies the Colorado Quantum Incubator's public Quantum Timing Testbed as the proposed timing evaluation site. The brief records the proposed work.",
+  "keywords": [
+    "augmented reality",
+    "game engines",
+    "sensor timing",
+    "timestamping",
+    "event ordering"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://oneironexus.com",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://oneironexus.com/game",
+      "relation": "references",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://quantumincubator.org/quantum-testbed/",
+      "relation": "references",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open",
+  "license": "other-closed"
+}
